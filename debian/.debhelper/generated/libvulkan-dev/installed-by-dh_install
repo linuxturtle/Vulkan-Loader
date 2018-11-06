@@ -1,0 +1,2 @@
+debian/tmp/usr/lib/x86_64-linux-gnu/libvulkan.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/vulkan.pc
